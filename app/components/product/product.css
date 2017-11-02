@@ -1,6 +1,8 @@
-/*product {
+product {
   display:flex;
   min-height:200px;
+  box-shadow: 3px 3px 10px gray;
+  padding: 20px;
 }
 product .picture{
   background-color:#eee;
@@ -21,4 +23,6 @@ product h1{
   margin: 0;
   font-size: 2em;
   font-weight: bolder;
-}*/
+  color: tomato;
+  width: 200px;
+}
